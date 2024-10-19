@@ -1,0 +1,5 @@
+Hello, World!
+This is a sample text file used for demonstrating the nextchar() function.
+It contains multiple lines.
+Each line is a different example of how the function will read characters.
+Let's see how it works!

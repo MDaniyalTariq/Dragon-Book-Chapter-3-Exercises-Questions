@@ -1,0 +1,1 @@
+This is a sample text file. It contains multiple lines. Here are some extra spaces. Tabs are here too. Let's see how it works! Finally, a line with mixed whitespace: This line has irregular spacing. 
